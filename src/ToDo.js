@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Moment from 'react-moment';
 import 'moment-timezone';
 
 const ToDoTemplate = () => {  //two features
